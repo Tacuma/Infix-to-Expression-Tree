@@ -7,8 +7,8 @@ Data Structures/Concepts Used:
 Templates, Stacks, Binary Search Tree, Evaluating an expression Tree, Recursion
 
 
-Description
-===========
+Description:
+============
 This program takes input from the console in the form of an infix expression, 
 and then converts it into binary tree format.
 The Tree is then evaluated.
@@ -29,8 +29,8 @@ The algorithm for converting to an exp. tree is as follows:
 Evaluating the Expression tree is done recursively
 
 
-Output
-======
+Output:
+=======
 	-Infix to Expression Tree Creator-
 	-An expression tree is created from a user inputted infix expression-
 
